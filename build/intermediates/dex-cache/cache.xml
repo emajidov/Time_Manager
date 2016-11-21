@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elgun\Desktop\Workspace\Android\Time-Manager\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Elgun\Desktop\Workspace\Android\Time-Manager\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_cd0fcd09f8cd81a2fb8691d8de2a7b61b89dbbe8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elgun\Desktop\Workspace\Android\Time-Manager\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Elgun\Desktop\Workspace\Android\Time-Manager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_a702c60e4e7bbbacbf1e0698d5c09b3988d3069e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elgun\Desktop\Workspace\Android\Time-Manager\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Elgun\Desktop\Workspace\Android\Time-Manager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_a60f72e44ec6e1043378af2748ca5a3604207089\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elgun\Desktop\Workspace\Android\Time-Manager\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4524b88a1972fdb4b6c0b0c7713dfd15d29e0b49">
+        <dex dex="C:\Users\Elgun\Desktop\Workspace\Android\Time-Manager\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_358731181a031fba19847df89a8298c67aab0929\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elgun\Desktop\Workspace\Android\Time-Manager\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Elgun\Desktop\Workspace\Android\Time-Manager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_0a25bbc8921faae020210f7407713fc852aff8b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elgun\Desktop\Workspace\Android\Time-Manager\app\libs\jsoup-1.10.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6b471012876a440ae746860d80738be2dd104655">
+        <dex dex="C:\Users\Elgun\Desktop\Workspace\Android\Time-Manager\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsoup-1.10.1_8e9bff0c28c69ebe4f302a9c04db4a1d34f92a25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elgun\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Elgun\Desktop\Workspace\Android\Time-Manager\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_bdcdd7d399d8f8324a905589a4fa5e4ed4d2c671\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elgun\Desktop\Workspace\Android\Time-Manager\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Elgun\Desktop\Workspace\Android\Time-Manager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_76c26a4ef3e8039fba4b93d5c07de626073dfdfa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elgun\Desktop\Workspace\Android\Time-Manager\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Elgun\Desktop\Workspace\Android\Time-Manager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_2ab6c9a28add6272d472c890851a78419c189fae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elgun\Desktop\Workspace\Android\Time-Manager\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Elgun\Desktop\Workspace\Android\Time-Manager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_335fb1581fff60bea3350018901f2d661df7ebe4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elgun\Desktop\Workspace\Android\Time-Manager\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="176d412ddf7415619f6c5b4e685b4aed8cceac1d">
+        <dex dex="C:\Users\Elgun\Desktop\Workspace\Android\Time-Manager\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e8d39ca627f88cd52f41707be21f3892ef2ffc37\classes.dex" />
+    </item>
+
+</items>

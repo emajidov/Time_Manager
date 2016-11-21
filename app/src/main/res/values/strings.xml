@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Koala App</string>
+
+    <string name="title_activity_user_profile">Profile</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_user__profile">User_Profile</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="search_area">Search...</string>
+    <string name="search_button">Search</string>
+    <string name="tasks">Task List</string>
+</resources>
